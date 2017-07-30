@@ -1,0 +1,12 @@
+.major{
+    font-weight: bold;
+}
+h2.major:after{
+    display: none;
+}
+ul.habitstext{
+    margin-bottom: 0px;
+}
+p#text{
+    margin-bottom: 10px;
+}
